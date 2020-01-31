@@ -6,3 +6,5 @@ The final project for Maple classes @ Wrocław University of Science and Techolo
 <img src="results/double_pendulum.gif" width="500" >
 
 <img src="results/double_mod_pendulum.gif" width="500" >
+
+<img src="results/6-body_pendulum.gif" width="500" >
